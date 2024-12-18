@@ -20,5 +20,4 @@ PAYMENTS: Total payments made by the customer.
 MINIMUM_PAYMENTS: Minimum payments made by the customer.
 PRC_FULL_PAYMENT: Percentage of full payments made.
 TENURE: Number of months the customer has been active.
-Special Note:
-The Spending Score can be computed using a combination of customer behavior metrics such as purchases, payment habits, frequency of transactions, and other variables to classify or rank customers. This score helps in segmenting customers for targeted marketing or personalized services.
+
